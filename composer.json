@@ -1,6 +1,7 @@
 {
     "type": "sylius-plugin",
     "name": "griff_plugin/photography-plugin",
+     "version": "1.0.0",
     "keywords": [
         "sylius",
         "sylius-plugin",

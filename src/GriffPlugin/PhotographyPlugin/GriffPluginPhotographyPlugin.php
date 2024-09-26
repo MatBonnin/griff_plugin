@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace GriffPlugin\PhotographyPlugin;
+namespace sylius\GriffPlugin\PhotographyPlugin;
 
 use Sylius\Bundle\CoreBundle\Application\SyliusPluginTrait;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
